@@ -9,4 +9,4 @@
 [<img alt="BisquitDubouche's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BisquitDubouche&show_icons=true&hide_border=true">](https://github.com/BisquitDubouche)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BisquitDubouche&layout=compact&hide_border=true)](https://github.com/BisquitDubouche)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7kgoju38hi1ibbl4vbfyuo0fd&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31njek746omirm4ncvnpfvjchzzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
