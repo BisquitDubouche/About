@@ -10,4 +10,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BisquitDubouche&layout=compact&hide_border=true)](https://github.com/BisquitDubouche)
 
 ## What i'm listening now
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid= 31njek746omirm4ncvnpfvjchzzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)]
+[![spotify-github-profile][(https://spotify-github-profile.vercel.app/api/view?uid= 31njek746omirm4ncvnpfvjchzzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
