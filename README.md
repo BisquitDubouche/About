@@ -6,7 +6,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/expressjs-mA55F.svg?style=for-the-badge&logo=expressjs&logoColor=black)![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-[<img alt="MrPrezAtambaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MrPrezAtambaev&show_icons=true&hide_border=true">](https://github.com/MrPrezAtambaev)
+[<img alt="MrPrezAtambaev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BisquitDubouche&show_icons=true&hide_border=true">](https://github.com/MrPrezAtambaev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrPrezAtambaev&layout=compact&hide_border=true)](https://github.com/MrPrezAtambaev)
 
 ## What i'm listening now
