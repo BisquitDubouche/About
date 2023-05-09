@@ -19,7 +19,7 @@
 ![GIT](https://img.shields.io/badge/git-%23323330.svg?logo=git&style=for-the-badge)
 ![Prisma](https://img.shields.io/badge/prisma-%23323330.svg?style=for-the-badge&logo=prisma) 
 ![Mongodb](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb)
-![Mongodb](https://img.shields.io/badge/postgres-%23323330.svg?logo=postgresql&style=for-the-badge)
+![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?logo=postgresql&style=for-the-badge)
 
 ![BisquitDubouche's GitHub stats](https://github-readme-stats.vercel.app/api?username=BisquitDubouche&show_icons=true&theme=github_dark_dimmed&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BisquitDubouche&layout=compact&theme=github_dark_dimmed&hide_border=true)](https://github.com/BisquitDubouche/github-readme-stats)
