@@ -10,7 +10,7 @@
 ![MUI](https://img.shields.io/badge/mui-%23000.svg?style=for-the-badge&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23000.svg?style=for-the-badge&logo=bootstrap)
 
-![React](https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/reactjs-%23000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/nextjs-%23000.svg?style=for-the-badge&logo=nextdotjs)
 ![ExpressJS](https://img.shields.io/badge/expressjs-%23000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React Query](https://img.shields.io/badge/reactquery-%23000.svg?style=for-the-badge&logo=reactquery)
@@ -21,15 +21,14 @@
 ![Mongodb](https://img.shields.io/badge/mongodb-%23000.svg?style=for-the-badge&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/postgres-%23000.svg?logo=postgresql&style=for-the-badge)
 
-### Also
-![Postgres](https://img.shields.io/badge/adobephotoshop-%23000.svg?logo=adobephotoshop&style=for-the-badge)
-
 ### My setup
-![Apple](https://img.shields.io/badge/apple-%23000.svg?logo=apple&style=for-the-badge)
-![Macos](https://img.shields.io/badge/macos-%23000.svg?logo=macos&style=for-the-badge&logoColor=white)
-![Audiotechnica](https://img.shields.io/badge/audiotechnica-%23000.svg?logo=audiotechnica&style=for-the-badge)
-![VS CODE](https://img.shields.io/badge/visualstudiocode-%23000.svg?logo=visualstudiocode&style=for-the-badge)
-![NPM](https://img.shields.io/badge/npm-%23000.svg?logo=npm&style=for-the-badge)
+![Apple](https://img.shields.io/badge/macbook-%23000.svg?logo=apple&style=for-the-badge)
+![Macos](https://img.shields.io/badge/ventura-%23000.svg?logo=macos&style=for-the-badge&logoColor=white)
+![VS CODE](https://img.shields.io/badge/vscode-%23000.svg?logo=visualstudiocode&style=for-the-badge)
+
+### Also
+![Photoshop](https://img.shields.io/badge/photoshop-%23000.svg?logo=adobephotoshop&style=for-the-badge)
+
 
 
 ![BisquitDubouche's GitHub stats](https://github-readme-stats.vercel.app/api?username=BisquitDubouche&show_icons=true&theme=transparent&hide_border=true)
