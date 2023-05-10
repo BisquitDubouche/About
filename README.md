@@ -12,7 +12,7 @@
 
 ![React](https://img.shields.io/badge/react-%23000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/nextjs-%23000.svg?style=for-the-badge&logo=nextdotjs)
-![ExpressJS](https://img.shields.io/badge/expressjs-%23000.svg?style=for-the-badge&logo=express&logoColor=black)
+![ExpressJS](https://img.shields.io/badge/expressjs-%23000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![React Query](https://img.shields.io/badge/reactquery-%23000.svg?style=for-the-badge&logo=reactquery) 
 
 ![Docker](https://img.shields.io/badge/docker-%23000.svg?style=for-the-badge&logo=docker)
