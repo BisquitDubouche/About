@@ -21,8 +21,8 @@
 ![Mongodb](https://img.shields.io/badge/mongodb-%23000.svg?style=for-the-badge&logo=mongodb)
 ![Postgres](https://img.shields.io/badge/postgres-%23000.svg?logo=postgresql&style=for-the-badge)
 
-![BisquitDubouche's GitHub stats](https://github-readme-stats.vercel.app/api?username=BisquitDubouche&show_icons=true&theme=github_dark_dimmed&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BisquitDubouche&layout=compact&theme=github_dark_dimmed&hide_border=true)](https://github.com/BisquitDubouche/github-readme-stats)
+![BisquitDubouche's GitHub stats](https://github-readme-stats.vercel.app/api?username=BisquitDubouche&show_icons=true&theme=transparent&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BisquitDubouche&layout=compact&theme=transparent&hide_border=true)](https://github.com/BisquitDubouche/github-readme-stats)
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31njek746omirm4ncvnpfvjchzzu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31njek746omirm4ncvnpfvjchzzu&redirect=true)
